@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *Random Background Color*
 
 Submitted by: **Shining Gu**
 
-**Name of your app** is an app that... [can change background color once the user presses the button] 
+**Random Background Color** is an app that... [can change background color once the user presses the button] 
 
 Time spent: **4** hours spent in total
 
