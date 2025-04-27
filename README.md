@@ -14,17 +14,17 @@ The following **required** functionality is completed:
 - [x ] Tapping the button changes the screen color to a random color
 
 ## App Brainstorming (Step 4)
-1. YouTube
+1. YouTube:
 Allows interactive commenting under videos.
 Provides easy access to a wide range of educational and entertainment resources.
 Simple and intuitive layout with clear recommendations and a convenient search bar.
 
-2. Zoom
+2. Zoom:
 Clean and minimalistic design.
 High-quality video and audio performance.
 Useful features like screen sharing and breakout rooms.
 
-3. Sorted³
+3. Sorted³:
 Beautiful and polished interface that makes planning enjoyable.
 Smart reminders and notifications to keep track of tasks and events.
 Automatic time-sorting feature that helps organize class schedules and daily to-do lists efficiently.
