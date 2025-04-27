@@ -39,7 +39,8 @@ There would also be a community section where users can share recipes, workout t
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The program takes too much time to run on a simulator like ipad or iphone 16 plus. 
+I tried setting up the app on an iPad, but the setup time was too long, which led me to test the results on the iPhone 16 instead.
 
 ## License
 
